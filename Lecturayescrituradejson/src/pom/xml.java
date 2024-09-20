@@ -1,0 +1,11 @@
+package pom;
+
+public class xml {
+	<dependency>
+    <groupId>org.json</groupId>
+    <artifactId>json</artifactId>
+    <version>20240303</version>
+</dependency>
+
+	
+}
